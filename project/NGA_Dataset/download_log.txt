@@ -1,0 +1,37 @@
+============================================================
+New Download Session Started
+Filtering by artists: Homer, Picasso
+Allowed classifications: Painting
+Excluded subclassifications: Drawing, Work Print, Contact Sheet, Archival, Printmaking Matrices
+============================================================
+SUCCESS: 1155a052-5f8d-4168-80dc-750ca9c5e497.jpg | URL: https://api.nga.gov/iiif/1155a052-5f8d-4168-80dc-750ca9c5e497/full/full/360/default.jpg
+SUCCESS: 1f56dea6-546c-4576-9596-0bf20f1c60e5.jpg | URL: https://api.nga.gov/iiif/1f56dea6-546c-4576-9596-0bf20f1c60e5/full/full/360/default.jpg
+SUCCESS: 26833f2a-be4f-43cc-9216-b226c37557a3.jpg | URL: https://api.nga.gov/iiif/26833f2a-be4f-43cc-9216-b226c37557a3/full/full/360/default.jpg
+SUCCESS: 2308ad47-a890-44b1-a1a9-e6c834d598bc.jpg | URL: https://api.nga.gov/iiif/2308ad47-a890-44b1-a1a9-e6c834d598bc/full/full/360/default.jpg
+SUCCESS: 3d26f129-aa76-4f97-b64d-bc0d4157207c.jpg | URL: https://api.nga.gov/iiif/3d26f129-aa76-4f97-b64d-bc0d4157207c/full/full/360/default.jpg
+SUCCESS: 45bad99c-e7c3-49bc-be81-dc1baccaef48.jpg | URL: https://api.nga.gov/iiif/45bad99c-e7c3-49bc-be81-dc1baccaef48/full/full/360/default.jpg
+SUCCESS: 452e1836-9785-498f-a202-0fae2ddea167.jpg | URL: https://api.nga.gov/iiif/452e1836-9785-498f-a202-0fae2ddea167/full/full/360/default.jpg
+SUCCESS: 406b5d56-d196-4bb0-b2e0-5a2f6fd52d0a.jpg | URL: https://api.nga.gov/iiif/406b5d56-d196-4bb0-b2e0-5a2f6fd52d0a/full/full/360/default.jpg
+SUCCESS: 4e2c5d2f-48a5-4119-a0ad-65b7f8e13b85.jpg | URL: https://api.nga.gov/iiif/4e2c5d2f-48a5-4119-a0ad-65b7f8e13b85/full/full/360/default.jpg
+SUCCESS: 600fb1fc-c22e-4cb1-a6c1-74044a9fc705.jpg | URL: https://api.nga.gov/iiif/600fb1fc-c22e-4cb1-a6c1-74044a9fc705/full/full/360/default.jpg
+SUCCESS: 26f22363-02e6-483e-99e0-032daa692747.jpg | URL: https://api.nga.gov/iiif/26f22363-02e6-483e-99e0-032daa692747/full/full/360/default.jpg
+SUCCESS: 1847f0f6-ed9d-4724-80e3-80066816d7cb.jpg | URL: https://api.nga.gov/iiif/1847f0f6-ed9d-4724-80e3-80066816d7cb/full/full/360/default.jpg
+SUCCESS: 1a3b08ef-4707-4435-85b8-266511477d39.jpg | URL: https://api.nga.gov/iiif/1a3b08ef-4707-4435-85b8-266511477d39/full/full/360/default.jpg
+SUCCESS: 3cbe6c4a-79c1-479a-b0d3-3ac903c96310.jpg | URL: https://api.nga.gov/iiif/3cbe6c4a-79c1-479a-b0d3-3ac903c96310/full/full/360/default.jpg
+SUCCESS: 7408044a-5130-49b9-bf8e-5ef5133bad98.jpg | URL: https://api.nga.gov/iiif/7408044a-5130-49b9-bf8e-5ef5133bad98/full/full/360/default.jpg
+SUCCESS: 6fbf580c-b0a8-4f9a-8b10-b64e990a27c3.jpg | URL: https://api.nga.gov/iiif/6fbf580c-b0a8-4f9a-8b10-b64e990a27c3/full/full/360/default.jpg
+SUCCESS: 4bff26e6-7bea-40bd-8a5c-d0169a67cabe.jpg | URL: https://api.nga.gov/iiif/4bff26e6-7bea-40bd-8a5c-d0169a67cabe/full/full/360/default.jpg
+SUCCESS: 6a560165-2e94-46a1-9f5d-a13d1acc68b9.jpg | URL: https://api.nga.gov/iiif/6a560165-2e94-46a1-9f5d-a13d1acc68b9/full/full/360/default.jpg
+SUCCESS: 9ef2a890-2516-4f5a-bcc7-cc70a22125b5.jpg | URL: https://api.nga.gov/iiif/9ef2a890-2516-4f5a-bcc7-cc70a22125b5/full/full/360/default.jpg
+SUCCESS: b0aa3afc-ad2c-46e3-8cc4-fe4b2d6e644e.jpg | URL: https://api.nga.gov/iiif/b0aa3afc-ad2c-46e3-8cc4-fe4b2d6e644e/full/full/360/default.jpg
+SUCCESS: aff699f3-2ce5-4b10-b58d-0736f1ae3760.jpg | URL: https://api.nga.gov/iiif/aff699f3-2ce5-4b10-b58d-0736f1ae3760/full/full/360/default.jpg
+SUCCESS: 763eb3f5-53c8-419d-91b3-1686e4e23140.jpg | URL: https://api.nga.gov/iiif/763eb3f5-53c8-419d-91b3-1686e4e23140/full/full/360/default.jpg
+SUCCESS: e2c4aa2b-08e4-490a-9a15-2d1cbd48670f.jpg | URL: https://api.nga.gov/iiif/e2c4aa2b-08e4-490a-9a15-2d1cbd48670f/full/full/360/default.jpg
+SUCCESS: e448a88b-b7c1-486e-9995-9c96d611faff.jpg | URL: https://api.nga.gov/iiif/e448a88b-b7c1-486e-9995-9c96d611faff/full/full/360/default.jpg
+SUCCESS: e19a2b28-639c-4d6a-848c-da253d5ee6b9.jpg | URL: https://api.nga.gov/iiif/e19a2b28-639c-4d6a-848c-da253d5ee6b9/full/full/360/default.jpg
+SUCCESS: e09a5191-9b76-469e-8eca-4a97e81a7331.jpg | URL: https://api.nga.gov/iiif/e09a5191-9b76-469e-8eca-4a97e81a7331/full/full/360/default.jpg
+SUCCESS: fd6be7a0-d2a1-4169-beb3-661acb416ad5.jpg | URL: https://api.nga.gov/iiif/fd6be7a0-d2a1-4169-beb3-661acb416ad5/full/full/360/default.jpg
+SUCCESS: c52730ee-b6ff-4e95-a7c1-168bdebbd234.jpg | URL: https://api.nga.gov/iiif/c52730ee-b6ff-4e95-a7c1-168bdebbd234/full/full/360/default.jpg
+SUCCESS: fea92cca-bb1f-4774-ac7c-b1b114719234.jpg | URL: https://api.nga.gov/iiif/fea92cca-bb1f-4774-ac7c-b1b114719234/full/full/360/default.jpg
+SUCCESS: b1e572e8-b82e-446f-9460-df8582699f7f.jpg | URL: https://api.nga.gov/iiif/b1e572e8-b82e-446f-9460-df8582699f7f/full/full/360/default.jpg
+SUCCESS: b5405348-9b4b-4fac-bb24-03c7915b7f22.jpg | URL: https://api.nga.gov/iiif/b5405348-9b4b-4fac-bb24-03c7915b7f22/full/full/360/default.jpg
